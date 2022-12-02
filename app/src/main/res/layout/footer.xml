@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="75dp"
+        android:layout_weight="1"
+        android:textStyle="bold"
+        android:textSize="40sp"
+        android:text="Huberman Lab"
+        android:textColor="#2086C8"
+        android:background="#1f2e33"
+        android:gravity="center"
+        />
+
+</LinearLayout>
